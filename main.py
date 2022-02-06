@@ -6,9 +6,8 @@ root = Tk()
 root.geometry('500x300')
 root.resizable(0, 0)
 root['background'] = '#FFDAB9'
-root.title("MyDataFlair - Message Encode and Decode")
-Label(root, text='ENCODE DECODE', font='david 20 bold', bg='#FFDAB9').place(x=130, y=30)
-Label(root, text='MyDataFlair', font='david 16 bold', bg='#FFDAB9').pack(side=BOTTOM)
+root.title("Message Encode and Decode")
+Label(root, text='Please enter your data and select mode', font='david 16 bold', bg='#FFDAB9').place(x=80, y=30)
 
 # define variables
 Text = StringVar()

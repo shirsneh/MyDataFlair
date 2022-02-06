@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MyDataFlair.iml" filepath="$PROJECT_DIR$/.idea/MyDataFlair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyEncoder/Decoder.iml" filepath="$PROJECT_DIR$/.idea/MyEncoder/Decoder.iml" />
     </modules>
   </component>
 </project>
